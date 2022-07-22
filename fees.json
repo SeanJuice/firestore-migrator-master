@@ -1,0 +1,169 @@
+{
+
+        "1Grade":{
+            "Grade": "1",
+            "GradeId": "RbkUDo7Cmp1n4Iafz7fy",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Monthly",
+            "YearFee": 15600.00,
+            "NewLearnerFee": 650.00
+        },
+        "12Grade":{
+            "Grade": "1",
+            "GradeId": "RbkUDo7Cmp1n4Iafz7fy",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Quarterly",
+            "YearFee": 15600.00,
+            "NewLearnerFee": 650.00
+        },
+        "13rade": {
+            "Grade": "1",
+            "GradeId": "RbkUDo7Cmp1n4Iafz7fy",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Full installment",
+            "YearFee": "14508.00",
+            "NewLearnerFee": 650.00
+        },
+        "21Grade": {
+            "Grade": "2",
+            "GradeId": "MHKZsEOk9b0r063jLpLF",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Monthly",
+            "YearFee": 15600.00,
+            "NewLearnerFee": 650.00
+        },
+        "22Grade":{
+            "Grade": "2",
+            "GradeId": "MHKZsEOk9b0r063jLpLF",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Quarterly",
+            "YearFee": 15600.00,
+            "NewLearnerFee": 650.00
+        },
+        "23Grade": {
+            "Grade": "2",
+            "GradeId": "MHKZsEOk9b0r063jLpLF",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Full installment",
+            "YearFee": "14508.00",
+            "NewLearnerFee": 650.00
+        },
+        "31Grade": {
+            "Grade": "3",
+            "GradeId": "rSFLEOTkuWlbhpbQc3sl",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Monthly",
+            "YearFee": 15600.00,
+            "NewLearnerFee": 650.00
+        },
+        "32Grade":{
+            "Grade": "3",
+            "GradeId": "rSFLEOTkuWlbhpbQc3sl",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Quarterly",
+            "YearFee": 15600.00,
+            "NewLearnerFee": 650.00
+        },
+        "33Grade": {
+            "Grade": "3",
+            "GradeId": "rSFLEOTkuWlbhpbQc3sl",
+            "Stationary&WorkbookFee": 1350.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Full installment",
+            "YearFee": "14508.00",
+            "NewLearnerFee": 650.00
+        },
+        "41Grade": {
+            "Grade": "4",
+            "GradeId": "1ocv7qvYPW7MOkrtRtHt",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Monthly",
+            "YearFee": 16200.00,
+            "NewLearnerFee": 650.00
+        },
+        "42Grade":{
+            "Grade": "4",
+            "GradeId": "1ocv7qvYPW7MOkrtRtHt",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Quarterly",
+            "YearFee": 16200.00,
+            "NewLearnerFee": 650.00
+        },
+        "43Grade":{
+            "Grade": "4",
+            "GradeId": "1ocv7qvYPW7MOkrtRtHt",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Full installment",
+            "YearFee": "15066.00",
+            "NewLearnerFee": 650.00,
+            "discount": "7%"
+        },
+        "51Grade": {
+            "Grade": "5",
+            "GradeId": "JzZWCKnfpD3c47AEBmxa",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Monthly",
+            "YearFee": "16800.00",
+            "NewLearnerFee": 650.00
+        },
+        "52Grade": {
+            "Grade": "5",
+            "GradeId": "JzZWCKnfpD3c47AEBmxa",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Quarterly",
+            "YearFee": "16800.00",
+            "NewLearnerFee": 650.00
+        },
+        "53Grade":{
+            "Grade": "5",
+            "GradeId": "JzZWCKnfpD3c47AEBmxa",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Full installment",
+            "YearFee": "15624.00",
+            "NewLearnerFee": 650.00,
+            "discount": "7%"
+        },
+        "61Grade":   {
+            "Grade": "6",
+            "GradeId": "oNXjULSubPLu6rgvGa8e",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Monthly",
+            "YearFee": "16800.00",
+            "NewLearnerFee": 650.00
+        },
+        "62Grade":{
+            "Grade": "6",
+            "GradeId": "oNXjULSubPLu6rgvGa8e",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Quarterly",
+            "YearFee": 15600.00,
+            "NewLearnerFee": 650.00
+        },
+        "63Grade":{
+            "Grade": "6",
+            "GradeId": "oNXjULSubPLu6rgvGa8e",
+            "Stationary&WorkbookFee": 1650.00,
+            "AfterCare": 350.00,
+            "PaymentType": "Full installment",
+            "YearFee": "15624.00",
+            "NewLearnerFee": 650.00,
+            "discount": "7%"
+        }
+    
+}
